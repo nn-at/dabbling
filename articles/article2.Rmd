@@ -1,0 +1,44 @@
+---
+title: "Article 2"
+description: |
+  A new article created using the Distill format.
+author:
+  - name: Nora Jones 
+    url: https://example.com/norajones
+    affiliation: Spacely Sprockets
+    affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web. 
+
+Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+
+Adding some text to test out the footnotes option ^[putting text in here] and it says that they auto number footnotes ^[this should be number two] if that is true.
+
+
+An aside is when you put info to far right of doc called the gutter. This should start an aside:
+
+<aside>this is a text aside </aside>
+
+They can also be code chunks such as plots:
+
+<aside>
+```{r}
+plot(cars)
+```
+</aside>
+
+see if that worked
+
+## Acknolwedgements {.appendix}
+
+this is content for the appendix
+
+
+

@@ -21,6 +21,7 @@ devtools::install_version("fontawesome", version = "0.1.0", repos = "http://cran
 install.packages("pointblank") # a dependency for fonntawesome - second time round also chose "skip" when asked about updates and it worked
 
 library(fontawesome)
+library(here)
 
 
 # Distill info ------------------------------------------------------------
@@ -86,6 +87,8 @@ distill::create_article(file = "postcard", template = "jolla", package = "postca
 # icons within text paragarphs
 # background colour and colour scheme updates
 # large icons only for social media - and without the box around them
+# get navigation bar or some sort of nav and home option on the article pages
+
 
 
 # Create theme ------------------------------------------------------------

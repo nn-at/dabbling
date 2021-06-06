@@ -1,0 +1,28 @@
+---
+title: "Article Page"
+description: |
+  A new article created using the Distill format.
+    [Link to Home](C:/Users/c_hag/Documents/R/dabbling/docs/index.html)
+author:
+  - name: Nora Jones 
+    url: https://example.com/norajones
+    affiliation: Spacely Sprockets
+    affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+output: 
+  distill::distill_article:
+    theme: !expr here::here("theme.css") # here is starting at dabbling directory - this applies the main site's theme.css to this page
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web. 
+
+Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+
+
+
+
+

@@ -18,7 +18,13 @@ navbar:
     - icon: fab fa-linkedin
       href: "https://twitter.com/ChrisHagyard"
     - text: "Article"
-      href: Article.html
+      menu:
+        - text: "Article"
+          href: articles/Article.html
+        - text: "article1"
+          href: articles/article1.html
+        - text: "article2"
+          href: articles/article2.html
     - text: "postcard"
       href: postcard.html
     - text: "onofre"
