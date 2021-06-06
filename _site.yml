@@ -1,0 +1,27 @@
+name: "."
+title: "Dabbling with R"
+description: |
+  Dabbling with R
+output_dir: "docs"
+navbar:
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "GitHub"
+      href: "https://github.com/nn-at"
+    - icon: fab fa-github
+      href: "https://github.com/nn-at"
+    - icon: fab fa-twitter-square
+      href: "https://twitter.com/ChrisHagyard"
+    - icon: fab fa-linkedin
+      href: "https://twitter.com/ChrisHagyard"
+    - text: "Article"
+      href: Article.html
+    - text: "postcard"
+      href: postcard.html
+    - text: "onofre"
+      href: onofre.html
+output: distill::distill_article
+theme: theme.css

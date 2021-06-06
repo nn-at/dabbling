@@ -1,0 +1,49 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-06T08:53:07-04:00"
+    },
+    {
+      "path": "Article.html",
+      "title": "Article Page",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-06T08:53:08-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Dabbling with R",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\nWelcome to my new site.\r\nSee this site for more info\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-06T08:54:46-04:00"
+    },
+    {
+      "path": "onofre.html",
+      "title": "Willkommen!",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          Dabbling with R\r\n          Home\r\n          About\r\n          GitHub\r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          Article\r\n          postcard\r\n          onofre\r\n          \r\n          \r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n          \r\n            Willkommen!\r\n          \r\n          \r\n            \r\n          \r\n          \r\n            György Herzl is a filmmaker and computational storyteller based in Leipzig, Germany. Their work has been featured at the Festival do Rio, Internationale Filmfestspiele Berlin, Kunsthalle Basel, and the New Museum of Contemporary Art in New York City. “ГУМ” is their latest project which examines the rise of consumerism in post-Soviet republics.\r\n          \r\n          \r\n            \r\n                \r\n                  \r\n                    YouTube\r\n                  \r\n                \r\n              \r\n                            \r\n                \r\n                  \r\n                    Vimeo\r\n                  \r\n                \r\n              \r\n                            \r\n                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n              \r\n                            \r\n                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n              \r\n                          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n          \r\n            Willkommen!\r\n          \r\n          \r\n            \r\n          \r\n          \r\n            György Herzl is a filmmaker and computational storyteller based in Leipzig, Germany. Their work has been featured at the Festival do Rio, Internationale Filmfestspiele Berlin, Kunsthalle Basel, and the New Museum of Contemporary Art in New York City. “ГУМ” is their latest project which examines the rise of consumerism in post-Soviet republics.\r\n          \r\n        \r\n      \r\n      \r\n          \r\n              \r\n                                \r\n                    \r\n                    YouTube\r\n                    \r\n                \r\n                                \r\n                    \r\n                    Vimeo\r\n                    \r\n                \r\n                                \r\n                    \r\n                    Twitter\r\n                    \r\n                \r\n                                \r\n                    \r\n                    Email\r\n                    \r\n                \r\n                              \r\n          \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2021-06-06T08:53:08-04:00"
+    },
+    {
+      "path": "postcard.html",
+      "title": "Tobi Burns",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          Dabbling with R\r\n          Home\r\n          About\r\n          GitHub\r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          Article\r\n          postcard\r\n          onofre\r\n          \r\n          \r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            Tobi Burns\r\n          \r\n          \r\n            \r\n              I am a classically trained data scientist living in the San Francisco Bay Area. Currently I work on the Oculus team at Facebook. I love talking about baseball, true crime podcasts, and causal inference.\r\n            \r\n            \r\n              I am a classically trained data scientist living in the San Francisco Bay Area. Currently I work on the Oculus team at Facebook. I love talking about baseball, true crime podcasts, and causal inference.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                \r\n                                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2021-06-06T08:53:08-04:00"
+    }
+  ],
+  "collections": []
+}
