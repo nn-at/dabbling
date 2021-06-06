@@ -87,7 +87,8 @@ distill::create_article(file = "postcard", template = "jolla", package = "postca
 # icons within text paragarphs
 # background colour and colour scheme updates
 # large icons only for social media - and without the box around them
-# get navigation bar or some sort of nav and home option on the article pages
+# get navigation bar or some sort of nav and home link option on the article pages otherwise you can't return to home
+
 
 
 
